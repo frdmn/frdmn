@@ -10,7 +10,7 @@
 
 Hi there! 👋 I'm a 28 year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
 
-Also working for @Rocket.Chat in part-time. 🚀
+Also working for [@Rocket.Chat](https://github.com/RocketChat) in part-time. 🚀
 
 ---
 
