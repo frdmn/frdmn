@@ -16,4 +16,4 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=frdmn&show_icons=true)
+![GiHub stats card](https://github-readme-stats.vercel.app/api?username=frdmn&show_icons=true)
