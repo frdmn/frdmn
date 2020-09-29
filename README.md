@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@nabiuddin6`](https://github.com/nabiuddin6)
 - [`@muesli`](https://github.com/muesli)
 - [`@sanjaykumari`](https://github.com/sanjaykumari)
 - [`@wlopezr`](https://github.com/wlopezr)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@dudizilla`](https://github.com/dudizilla)
 - [`@SayanUX`](https://github.com/SayanUX)
 - [`@ronydebnath`](https://github.com/ronydebnath)
-- [`@h4rishabh`](https://github.com/h4rishabh)
 
 ---
 
