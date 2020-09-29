@@ -16,6 +16,28 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 ---
 
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### 🔭 My latest gists
+{{range gists 10}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 👤 My recent followers
+{{range followers 10}}
+- [`@{{.Login}}`]({{.URL}})
+{{- end}}
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frdmn&show_icons=true">
 </p>
