@@ -18,19 +18,19 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (1 day ago)
-- [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (1 day ago)
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications. (2 days ago)
+- [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string (today)
+- [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (2 days ago)
+- [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (2 days ago)
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications. (3 days ago)
 - [frdmn/docker-rocketchat](https://github.com/frdmn/docker-rocketchat) - 🚢📦My `docker-compose.yml` file/setup to run Rocket.Chat in production (1 week ago)
-- [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana &#43; InfluxDB &#43; Speedtest.net results (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string
 - [frdmn/rocketchat-test-landscape](https://github.com/frdmn/rocketchat-test-landscape) - 🚧 [WIP] Test landscape for Rocket.Chat instances
 - [frdmn/rocketchat-app-otrs](https://github.com/frdmn/rocketchat-app-otrs) - Automatically transforms OTRS ticket IDs into clickable URLs
 - [frdmn/rocketchat-emojipacks](https://github.com/frdmn/rocketchat-emojipacks) - 🚀Rocket.Chat compatible CLI for emojipacks
 - [frdmn/vmware-idle-snapshot-notifier](https://github.com/frdmn/vmware-idle-snapshot-notifier) - Python script to send out (Rocket.Chat, Slack, Microsoft Teams, Telegram, mail) notifications for unused/idle VM snapshots found on vCenter/ESXi
-- [frdmn/octoprint-usb-autoconnect](https://github.com/frdmn/octoprint-usb-autoconnect) - udev hook to reconnect the serial connection of your 3D printer in OctoPrint
 
 #### 🔭 My latest gists
 
