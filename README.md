@@ -21,7 +21,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string (1 week ago)
 - [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (1 week ago)
 - [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (1 week ago)
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications. (1 week ago)
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications. (2 weeks ago)
 - [frdmn/docker-rocketchat](https://github.com/frdmn/docker-rocketchat) - 🚢📦My `docker-compose.yml` file/setup to run Rocket.Chat in production (2 weeks ago)
 
 #### 🌱 My latest projects
