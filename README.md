@@ -34,6 +34,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
+- [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (today)
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (2 months ago)
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (2 years ago)
 - [Victor&#39;s macOS Client information parser](https://gist.github.com/5eeebc05c61c7a00450aee8b81be824c) (2 years ago)
@@ -43,7 +44,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [Restore admin access in Rocket.Chat on Docker installations](https://gist.github.com/c509b3ac573172f433bfc513747e0ab6) (2 years ago)
 - [Alternative rocket.service.js for @galmok](https://gist.github.com/27dfb2957bdbf9e8e834d920ab897864) (4 years ago)
 - [ssh-hosts.zsh plugin](https://gist.github.com/41bc8cf01f58ddbc369b) (4 years ago)
-- [Debian startup (init.d) script for gogs.io](https://gist.github.com/89e2948135ea4c76f2f1) (4 years ago)
 
 #### 👤 My recent followers
 
