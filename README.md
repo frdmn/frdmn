@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@jubopako`](https://github.com/jubopako)
 - [`@NetDevAutomate`](https://github.com/NetDevAutomate)
 - [`@Lisprez`](https://github.com/Lisprez)
 - [`@grimmolf`](https://github.com/grimmolf)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@bdittmer`](https://github.com/bdittmer)
 - [`@MattMattV`](https://github.com/MattMattV)
 - [`@nabiuddin6`](https://github.com/nabiuddin6)
-- [`@muesli`](https://github.com/muesli)
 
 ---
 
