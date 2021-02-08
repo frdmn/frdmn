@@ -18,11 +18,11 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
+- [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana &#43; InfluxDB &#43; Speedtest.net results (today)
 - [RocketChat/install.sh](https://github.com/RocketChat/install.sh) - command line tool to help you install and configure a RocketChat server in a Linux host (1 week ago)
 - [RocketChat/docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin &amp; developer documentation. (2 weeks ago)
 - [RocketChat/docker-mmap-to-wiredtiger-migration](https://github.com/RocketChat/docker-mmap-to-wiredtiger-migration) -  (1 month ago)
 - [frdmn/docker-rocketchat](https://github.com/frdmn/docker-rocketchat) - 🚢📦My `docker-compose.yml` file/setup to run Rocket.Chat in production (2 months ago)
-- [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana &#43; InfluxDB &#43; Speedtest.net results (2 months ago)
 
 #### 🌱 My latest projects
 
