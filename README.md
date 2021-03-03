@@ -18,8 +18,8 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (today)
-- [RocketChat/docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin &amp; developer documentation. (1 day ago)
+- [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (1 day ago)
+- [RocketChat/docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin &amp; developer documentation. (2 days ago)
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana &#43; InfluxDB &#43; Speedtest.net results (3 weeks ago)
 - [RocketChat/install.sh](https://github.com/RocketChat/install.sh) - command line tool to help you install and configure a RocketChat server in a Linux host (1 month ago)
 - [RocketChat/docker-mmap-to-wiredtiger-migration](https://github.com/RocketChat/docker-mmap-to-wiredtiger-migration) -  (2 months ago)
@@ -43,7 +43,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [Rocket.Chat REST API setType channel/group ](https://gist.github.com/fec5e5865cb7e794809143db61991c64) (2 years ago)
 - [Restore admin access in Rocket.Chat on Docker installations](https://gist.github.com/c509b3ac573172f433bfc513747e0ab6) (2 years ago)
 - [Alternative rocket.service.js for @galmok](https://gist.github.com/27dfb2957bdbf9e8e834d920ab897864) (4 years ago)
-- [ssh-hosts.zsh plugin](https://gist.github.com/41bc8cf01f58ddbc369b) (4 years ago)
+- [ssh-hosts.zsh plugin](https://gist.github.com/41bc8cf01f58ddbc369b) (5 years ago)
 
 #### 👤 My recent followers
 
