@@ -18,7 +18,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (today)
+- [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (1 day ago)
 - [frdmn/telegram-twitch-emote-bot](https://github.com/frdmn/telegram-twitch-emote-bot) - 💬 Search and display Twitch emotes in Telegram chats (1 week ago)
 - [RocketChat/docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin &amp; developer documentation. (2 weeks ago)
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana &#43; InfluxDB &#43; Speedtest.net results (1 month ago)
@@ -35,7 +35,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 #### 🔭 My latest gists
 
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (4 months ago)
-- [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (6 months ago)
+- [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (7 months ago)
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (2 years ago)
 - [Victor&#39;s macOS Client information parser](https://gist.github.com/5eeebc05c61c7a00450aee8b81be824c) (2 years ago)
 - [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (2 years ago)
