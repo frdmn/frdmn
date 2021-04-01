@@ -40,7 +40,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [Victor&#39;s macOS Client information parser](https://gist.github.com/5eeebc05c61c7a00450aee8b81be824c) (2 years ago)
 - [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (2 years ago)
 - [Install imapsync from source on Ubuntu 16.04](https://gist.github.com/3f94306bcfda871b1d3c61c400926e5c) (2 years ago)
-- [Rocket.Chat REST API setType channel/group ](https://gist.github.com/fec5e5865cb7e794809143db61991c64) (2 years ago)
+- [Rocket.Chat REST API setType channel/group ](https://gist.github.com/fec5e5865cb7e794809143db61991c64) (3 years ago)
 - [Restore admin access in Rocket.Chat on Docker installations](https://gist.github.com/c509b3ac573172f433bfc513747e0ab6) (3 years ago)
 - [Alternative rocket.service.js for @galmok](https://gist.github.com/27dfb2957bdbf9e8e834d920ab897864) (4 years ago)
 - [ssh-hosts.zsh plugin](https://gist.github.com/41bc8cf01f58ddbc369b) (5 years ago)
