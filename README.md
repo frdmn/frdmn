@@ -53,10 +53,10 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@pelim`](https://github.com/pelim)
 - [`@Colton1070`](https://github.com/Colton1070)
 - [`@irevenko`](https://github.com/irevenko)
-- [`@dylxc`](https://github.com/dylxc)
 - [`@mathben`](https://github.com/mathben)
 - [`@oussamanidhal`](https://github.com/oussamanidhal)
 - [`@NetDevAutomate`](https://github.com/NetDevAutomate)
+- [`@Lisprez`](https://github.com/Lisprez)
 
 ---
 
