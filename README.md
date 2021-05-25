@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@crxssed7`](https://github.com/crxssed7)
 - [`@didszun`](https://github.com/didszun)
 - [`@iryston`](https://github.com/iryston)
 - [`@pelim`](https://github.com/pelim)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@mathben`](https://github.com/mathben)
 - [`@oussamanidhal`](https://github.com/oussamanidhal)
 - [`@NetDevAutomate`](https://github.com/NetDevAutomate)
-- [`@Lisprez`](https://github.com/Lisprez)
 
 ---
 
