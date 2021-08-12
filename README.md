@@ -19,7 +19,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 #### 👷 Check out what I'm currently working on
 
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (2 weeks ago)
-- [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (4 months ago)
+- [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (5 months ago)
 - [frdmn/telegram-twitch-emote-bot](https://github.com/frdmn/telegram-twitch-emote-bot) - 💬 Search and display Twitch emotes in Telegram chats (5 months ago)
 - [RocketChat/developer-docs](https://github.com/RocketChat/developer-docs) -  (5 months ago)
 - [RocketChat/docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin &amp; developer documentation. (5 months ago)
