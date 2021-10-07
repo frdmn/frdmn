@@ -10,7 +10,7 @@
 
 ---
 
-Hi there! 👋 I'm a 30 year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
+Hi there! 👋 I'm a $age year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
 
 Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
@@ -47,7 +47,8 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
-- [`@Alena-lebedeva`](https://github.com/Alena-lebedeva)
+- [`@Ramyphoenix`](https://github.com/Ramyphoenix)
+- [`@Top-coder-1`](https://github.com/Top-coder-1)
 - [`@BrilliantBloke`](https://github.com/BrilliantBloke)
 - [`@MtaRedhuan0`](https://github.com/MtaRedhuan0)
 - [`@crxssed7`](https://github.com/crxssed7)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@pelim`](https://github.com/pelim)
 - [`@Colton1070`](https://github.com/Colton1070)
 - [`@irevenko`](https://github.com/irevenko)
-- [`@mathben`](https://github.com/mathben)
 
 ---
 
