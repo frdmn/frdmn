@@ -48,7 +48,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 #### 👤 My recent followers
 
 - [`@Ramyphoenix`](https://github.com/Ramyphoenix)
-- [`@Top-coder-1`](https://github.com/Top-coder-1)
+- [`@React-expert-web-developer-1`](https://github.com/React-expert-web-developer-1)
 - [`@BrilliantBloke`](https://github.com/BrilliantBloke)
 - [`@MtaRedhuan0`](https://github.com/MtaRedhuan0)
 - [`@crxssed7`](https://github.com/crxssed7)
