@@ -34,7 +34,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
-- [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (today)
+- [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (1 day ago)
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (11 months ago)
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (1 year ago)
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (2 years ago)
