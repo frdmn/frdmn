@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@renowncoder`](https://github.com/renowncoder)
 - [`@Ramyphoenix`](https://github.com/Ramyphoenix)
 - [`@BrilliantBloke`](https://github.com/BrilliantBloke)
 - [`@MtaRedhuan0`](https://github.com/MtaRedhuan0)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@pelim`](https://github.com/pelim)
 - [`@Colton1070`](https://github.com/Colton1070)
 - [`@irevenko`](https://github.com/irevenko)
-- [`@mathben`](https://github.com/mathben)
 
 ---
 
