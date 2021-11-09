@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@shahrokh90`](https://github.com/shahrokh90)
 - [`@SeyyedAliMehdi`](https://github.com/SeyyedAliMehdi)
 - [`@renowncoder`](https://github.com/renowncoder)
 - [`@Ramyphoenix`](https://github.com/Ramyphoenix)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@didszun`](https://github.com/didszun)
 - [`@iryston`](https://github.com/iryston)
 - [`@pelim`](https://github.com/pelim)
-- [`@Colton1070`](https://github.com/Colton1070)
 
 ---
 
