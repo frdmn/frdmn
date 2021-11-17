@@ -18,7 +18,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [Icinga/icingaweb2-module-vspheredb](https://github.com/Icinga/icingaweb2-module-vspheredb) -  The easiest way to monitor a VMware vSphere environment.  (today)
+- [Icinga/icingaweb2-module-vspheredb](https://github.com/Icinga/icingaweb2-module-vspheredb) -  The easiest way to monitor a VMware vSphere environment.  (1 day ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (1 month ago)
 - [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (8 months ago)
 - [frdmn/telegram-twitch-emote-bot](https://github.com/frdmn/telegram-twitch-emote-bot) - 💬 Search and display Twitch emotes in Telegram chats (8 months ago)
@@ -34,7 +34,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
-- [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (2 weeks ago)
+- [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (3 weeks ago)
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (1 year ago)
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (1 year ago)
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (2 years ago)
