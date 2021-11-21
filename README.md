@@ -34,6 +34,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
+- [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (today)
 - [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (3 weeks ago)
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (1 year ago)
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (1 year ago)
@@ -43,7 +44,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [Install imapsync from source on Ubuntu 16.04](https://gist.github.com/3f94306bcfda871b1d3c61c400926e5c) (3 years ago)
 - [Rocket.Chat REST API setType channel/group ](https://gist.github.com/fec5e5865cb7e794809143db61991c64) (3 years ago)
 - [Restore admin access in Rocket.Chat on Docker installations](https://gist.github.com/c509b3ac573172f433bfc513747e0ab6) (3 years ago)
-- [Alternative rocket.service.js for @galmok](https://gist.github.com/27dfb2957bdbf9e8e834d920ab897864) (5 years ago)
 
 #### 👤 My recent followers
 
