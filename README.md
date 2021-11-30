@@ -18,8 +18,8 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (4 days ago)
-- [Icinga/icingaweb2-module-vspheredb](https://github.com/Icinga/icingaweb2-module-vspheredb) -  The easiest way to monitor a VMware vSphere environment.  (1 week ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (5 days ago)
+- [Icinga/icingaweb2-module-vspheredb](https://github.com/Icinga/icingaweb2-module-vspheredb) -  The easiest way to monitor a VMware vSphere environment.  (2 weeks ago)
 - [RocketChat/Rocket.Chat.Metrics](https://github.com/RocketChat/Rocket.Chat.Metrics) - Monitoring setup for Rocket.Chat servers (8 months ago)
 - [frdmn/telegram-twitch-emote-bot](https://github.com/frdmn/telegram-twitch-emote-bot) - 💬 Search and display Twitch emotes in Telegram chats (9 months ago)
 - [RocketChat/developer-docs](https://github.com/RocketChat/developer-docs) - These developer guides and APIs will help you start developing on Rocket.Chat quickly.  (9 months ago)
