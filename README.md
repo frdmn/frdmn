@@ -54,9 +54,9 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@Ramyphoenix`](https://github.com/Ramyphoenix)
 - [`@BrilliantBloke`](https://github.com/BrilliantBloke)
 - [`@MtaRedhuan0`](https://github.com/MtaRedhuan0)
-- [`@crxssed7`](https://github.com/crxssed7)
 - [`@didszun`](https://github.com/didszun)
 - [`@iryston`](https://github.com/iryston)
+- [`@pelim`](https://github.com/pelim)
 
 ---
 
