@@ -24,7 +24,7 @@ jobs:
         with:
           date: '1991-08-17'
 
-      - uses: jacobtomlinson/gha-find-replace@master
+      - uses: jacobtomlinson/gha-find-replace@v2
         id: replace
         with:
           find: "\\$age"
