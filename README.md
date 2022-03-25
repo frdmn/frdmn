@@ -44,6 +44,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@fernando-nog`](https://github.com/fernando-nog)
 - [`@mlpao500`](https://github.com/mlpao500)
 - [`@shibupersonal`](https://github.com/shibupersonal)
 - [`@correia-joao`](https://github.com/correia-joao)
@@ -53,7 +54,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@renowncoder`](https://github.com/renowncoder)
 - [`@Ramyphoenix`](https://github.com/Ramyphoenix)
 - [`@BrilliantBloke`](https://github.com/BrilliantBloke)
-- [`@MtaRedhuan0`](https://github.com/MtaRedhuan0)
 
 ---
 
