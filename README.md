@@ -44,6 +44,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@Altinger-Robert`](https://github.com/Altinger-Robert)
 - [`@hrbagang`](https://github.com/hrbagang)
 - [`@kindleone`](https://github.com/kindleone)
 - [`@fernando-nog`](https://github.com/fernando-nog)
@@ -53,7 +54,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@TomsMater`](https://github.com/TomsMater)
 - [`@shahrokh90`](https://github.com/shahrokh90)
 - [`@SeyyedAliMehdi`](https://github.com/SeyyedAliMehdi)
-- [`@renowncoder`](https://github.com/renowncoder)
 
 ---
 
