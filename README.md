@@ -44,6 +44,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@s-bose`](https://github.com/s-bose)
 - [`@mlwbd`](https://github.com/mlwbd)
 - [`@ricardonietochavez`](https://github.com/ricardonietochavez)
 - [`@hrbagang`](https://github.com/hrbagang)
@@ -53,7 +54,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@shibupersonal`](https://github.com/shibupersonal)
 - [`@correia-joao`](https://github.com/correia-joao)
 - [`@TomsMater`](https://github.com/TomsMater)
-- [`@shahrokh90`](https://github.com/shahrokh90)
 
 ---
 
