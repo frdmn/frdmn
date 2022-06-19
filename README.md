@@ -45,6 +45,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@ddVital`](https://github.com/ddVital)
 - [`@mauriciord`](https://github.com/mauriciord)
 - [`@h34ton`](https://github.com/h34ton)
 - [`@s-bose`](https://github.com/s-bose)
@@ -54,7 +55,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@kindleone`](https://github.com/kindleone)
 - [`@fernando-nog`](https://github.com/fernando-nog)
 - [`@mlpao500`](https://github.com/mlpao500)
-- [`@shibupersonal`](https://github.com/shibupersonal)
 
 ---
 
