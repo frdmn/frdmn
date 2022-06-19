@@ -49,7 +49,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@h34ton`](https://github.com/h34ton)
 - [`@s-bose`](https://github.com/s-bose)
 - [`@mlwbd`](https://github.com/mlwbd)
-- [`@ricardonietochavez`](https://github.com/ricardonietochavez)
+- [`@pulpon6`](https://github.com/pulpon6)
 - [`@hrbagang`](https://github.com/hrbagang)
 - [`@kindleone`](https://github.com/kindleone)
 - [`@fernando-nog`](https://github.com/fernando-nog)
