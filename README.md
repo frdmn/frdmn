@@ -18,8 +18,8 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (today)
-- [frdmn/docker-rocketchat](https://github.com/frdmn/docker-rocketchat) - 🚢📦My `docker-compose.yml` file/setup to run Rocket.Chat in production (1 week ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (1 day ago)
+- [frdmn/docker-rocketchat](https://github.com/frdmn/docker-rocketchat) - 🚢📦My `docker-compose.yml` file/setup to run Rocket.Chat in production (2 weeks ago)
 - [Icinga/icingaweb2-module-vspheredb](https://github.com/Icinga/icingaweb2-module-vspheredb) -  The easiest way to monitor a VMware vSphere environment.  (7 months ago)
 
 #### 🌱 My latest projects
