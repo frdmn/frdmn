@@ -47,7 +47,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 - [`@mattnix4`](https://github.com/mattnix4)
 - [`@agnosticlines`](https://github.com/agnosticlines)
-- [`@Jody7`](https://github.com/Jody7)
 - [`@Hulk42467`](https://github.com/Hulk42467)
 - [`@ddVital`](https://github.com/ddVital)
 - [`@mauriciord`](https://github.com/mauriciord)
@@ -55,6 +54,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@s-bose`](https://github.com/s-bose)
 - [`@mlwbd`](https://github.com/mlwbd)
 - [`@pulpon6`](https://github.com/pulpon6)
+- [`@hrbagang`](https://github.com/hrbagang)
 
 ---
 
