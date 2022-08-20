@@ -19,7 +19,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 #### 👷 Check out what I'm currently working on
 
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (today)
-- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (today)
+- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (1 day ago)
 - [frdmn/docker-rocketchat](https://github.com/frdmn/docker-rocketchat) - 🚢📦My `docker-compose.yml` file/setup to run Rocket.Chat in production (2 months ago)
 - [Icinga/icingaweb2-module-vspheredb](https://github.com/Icinga/icingaweb2-module-vspheredb) -  The easiest way to monitor a VMware vSphere environment.  (9 months ago)
 
