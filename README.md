@@ -51,12 +51,12 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@mattnix4`](https://github.com/mattnix4)
 - [`@agnosticlines`](https://github.com/agnosticlines)
 - [`@Hulk42467`](https://github.com/Hulk42467)
-- [`@ddVital`](https://github.com/ddVital)
 - [`@mauriciord`](https://github.com/mauriciord)
 - [`@h34ton`](https://github.com/h34ton)
 - [`@s-bose`](https://github.com/s-bose)
 - [`@mlwbd`](https://github.com/mlwbd)
 - [`@pulpon6`](https://github.com/pulpon6)
+- [`@hrbagang`](https://github.com/hrbagang)
 
 ---
 
