@@ -18,9 +18,9 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (today)
-- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (today)
-- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (3 days ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (1 day ago)
+- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (1 day ago)
+- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (4 days ago)
 - [frdmn/docker-rocketchat](https://github.com/frdmn/docker-rocketchat) - 🚢📦My `docker-compose.yml` file/setup to run Rocket.Chat in production (2 months ago)
 - [Icinga/icingaweb2-module-vspheredb](https://github.com/Icinga/icingaweb2-module-vspheredb) -  The easiest way to monitor a VMware vSphere environment.  (9 months ago)
 
@@ -35,7 +35,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 #### 🔭 My latest gists
 
 - [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (9 months ago)
-- [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (9 months ago)
+- [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (10 months ago)
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (2 years ago)
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (2 years ago)
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (3 years ago)
