@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@canering`](https://github.com/canering)
 - [`@fwartner`](https://github.com/fwartner)
 - [`@mattnix4`](https://github.com/mattnix4)
 - [`@agnosticlines`](https://github.com/agnosticlines)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@s-bose`](https://github.com/s-bose)
 - [`@mlwbd`](https://github.com/mlwbd)
 - [`@pulpon6`](https://github.com/pulpon6)
-- [`@hrbagang`](https://github.com/hrbagang)
 
 ---
 
