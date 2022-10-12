@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@royswale`](https://github.com/royswale)
 - [`@moasson`](https://github.com/moasson)
 - [`@VIRUXE`](https://github.com/VIRUXE)
 - [`@kch0p`](https://github.com/kch0p)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@agnosticlines`](https://github.com/agnosticlines)
 - [`@Hulk42467`](https://github.com/Hulk42467)
 - [`@mauriciord`](https://github.com/mauriciord)
-- [`@h34ton`](https://github.com/h34ton)
 
 ---
 
