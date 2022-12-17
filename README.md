@@ -22,7 +22,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (2 months ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (3 months ago)
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (3 months ago)
-- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (3 months ago)
+- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (4 months ago)
 
 #### 🌱 My latest projects
 
