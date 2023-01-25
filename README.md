@@ -53,7 +53,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@yahyamoussaidd`](https://github.com/yahyamoussaidd)
 - [`@Oscar199320`](https://github.com/Oscar199320)
 - [`@royswale`](https://github.com/royswale)
-- [`@moasson`](https://github.com/moasson)
+- [`@amdjml`](https://github.com/amdjml)
 - [`@VIRUXE`](https://github.com/VIRUXE)
 - [`@kch0p`](https://github.com/kch0p)
 - [`@canering`](https://github.com/canering)
