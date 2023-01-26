@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@hunaczech`](https://github.com/hunaczech)
 - [`@CodeLikeAGirl29`](https://github.com/CodeLikeAGirl29)
 - [`@giko`](https://github.com/giko)
 - [`@marccarran`](https://github.com/marccarran)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@amdjml`](https://github.com/amdjml)
 - [`@VIRUXE`](https://github.com/VIRUXE)
 - [`@kch0p`](https://github.com/kch0p)
-- [`@canering`](https://github.com/canering)
 
 ---
 
