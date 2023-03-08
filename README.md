@@ -34,6 +34,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
+- [Disable power save mode for wireless interfaces on Raspbian 10/Buster](https://gist.github.com/9b3fcf8ee7e6b2223da44314e023c969) (today)
 - [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (1 year ago)
 - [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (1 year ago)
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (2 years ago)
@@ -43,7 +44,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (4 years ago)
 - [Install imapsync from source on Ubuntu 16.04](https://gist.github.com/3f94306bcfda871b1d3c61c400926e5c) (4 years ago)
 - [Rocket.Chat REST API setType channel/group ](https://gist.github.com/fec5e5865cb7e794809143db61991c64) (4 years ago)
-- [Restore admin access in Rocket.Chat on Docker installations](https://gist.github.com/c509b3ac573172f433bfc513747e0ab6) (4 years ago)
 
 #### 👤 My recent followers
 
