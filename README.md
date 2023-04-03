@@ -18,19 +18,19 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
+- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 &#43; inductive sensor &#43; SKR Dip &#43; TMC2208 (today)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust. (6 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (6 months ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (7 months ago)
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (7 months ago)
-- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (7 months ago)
 
 #### 🌱 My latest projects
 
+- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 &#43; inductive sensor &#43; SKR Dip &#43; TMC2208
 - [frdmn/telegram-twitch-emote-bot](https://github.com/frdmn/telegram-twitch-emote-bot) - 💬 Search and display Twitch emotes in Telegram chats
 - [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string
 - [frdmn/rocketchat-test-landscape](https://github.com/frdmn/rocketchat-test-landscape) - 🚧 [WIP] Test landscape for Rocket.Chat instances
 - [frdmn/rocketchat-app-otrs](https://github.com/frdmn/rocketchat-app-otrs) - Automatically transforms OTRS ticket IDs into clickable URLs
-- [frdmn/rocketchat-emojipacks](https://github.com/frdmn/rocketchat-emojipacks) - 🚀Rocket.Chat compatible CLI for emojipacks
 
 #### 🔭 My latest gists
 
