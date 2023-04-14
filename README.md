@@ -18,7 +18,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 &#43; inductive sensor &#43; SKR Dip &#43; TMC2208 (5 days ago)
+- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 &#43; inductive sensor &#43; SKR Dip &#43; TMC2208 (6 days ago)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust. (6 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (6 months ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (7 months ago)
