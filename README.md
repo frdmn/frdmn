@@ -18,7 +18,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 (v1) &#43; SKR Mini E3 v3.0 &#43; Biqu H2 V2S Revo &#43; inductive sensor (LJ12A3-4-Z/BX-5V) (today)
+- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 (v1) &#43; SKR Mini E3 v3.0 &#43; Biqu H2 V2S Revo &#43; inductive sensor (LJ12A3-4-Z/BX-5V) (1 day ago)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust. (6 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (6 months ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (7 months ago)
@@ -34,7 +34,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
-- [Gcode commands for manual bed leveling / tramming](https://gist.github.com/dfdae53cefc8e107f5110c80012f208e) (1 week ago)
+- [Gcode commands for manual bed leveling / tramming](https://gist.github.com/dfdae53cefc8e107f5110c80012f208e) (2 weeks ago)
 - [Disable power save mode for wireless interfaces on Raspbian 10/Buster](https://gist.github.com/9b3fcf8ee7e6b2223da44314e023c969) (1 month ago)
 - [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (1 year ago)
 - [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (1 year ago)
