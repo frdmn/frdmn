@@ -18,11 +18,11 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 (v1) &#43; SKR Mini E3 v3.0 &#43; Biqu H2 V2S Revo &#43; inductive sensor (LJ12A3-4-Z/BX-5V) (2 days ago)
+- [frdmn/Marlin](https://github.com/frdmn/Marlin) - My customized Marlin fork for my Ender 3 (v1) &#43; SKR Mini E3 v3.0 &#43; Biqu H2 V2S Revo &#43; inductive sensor (LJ12A3-4-Z/BX-5V) (3 days ago)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust. (6 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (6 months ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (7 months ago)
-- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (7 months ago)
+- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (8 months ago)
 
 #### 🌱 My latest projects
 
