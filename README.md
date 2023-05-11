@@ -47,6 +47,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@NiklasSchmitt`](https://github.com/NiklasSchmitt)
 - [`@GitCroque`](https://github.com/GitCroque)
 - [`@nevo-david`](https://github.com/nevo-david)
 - [`@MuhammadOwaisShah`](https://github.com/MuhammadOwaisShah)
@@ -56,7 +57,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@hunaczech`](https://github.com/hunaczech)
 - [`@CodeLikeAGirl29`](https://github.com/CodeLikeAGirl29)
 - [`@giko`](https://github.com/giko)
-- [`@marccarran`](https://github.com/marccarran)
 
 ---
 
