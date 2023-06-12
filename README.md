@@ -51,12 +51,12 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@tiben01`](https://github.com/tiben01)
 - [`@HPKTOL`](https://github.com/HPKTOL)
 - [`@lthieuhk0000`](https://github.com/lthieuhk0000)
-- [`@Leqtrang1100`](https://github.com/Leqtrang1100)
 - [`@trhai68`](https://github.com/trhai68)
 - [`@santoshpremi`](https://github.com/santoshpremi)
 - [`@NiklasSchmitt`](https://github.com/NiklasSchmitt)
 - [`@GitCroque`](https://github.com/GitCroque)
 - [`@nevo-david`](https://github.com/nevo-david)
+- [`@MuhammadOwaisShah`](https://github.com/MuhammadOwaisShah)
 
 ---
 
