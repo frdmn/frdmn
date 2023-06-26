@@ -21,7 +21,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [frdmn/3d-printer-builds](https://github.com/frdmn/3d-printer-builds) - Repository contains build logs of my two 3d printers: Creality Ender-3 v1 &amp; Prusa i3 MK3s (Bear Mod) (3 weeks ago)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust. (9 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (9 months ago)
-- [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (9 months ago)
+- [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (10 months ago)
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (10 months ago)
 
 #### 🌱 My latest projects
