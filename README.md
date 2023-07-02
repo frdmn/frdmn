@@ -56,7 +56,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@santoshpremi`](https://github.com/santoshpremi)
 - [`@NiklasSchmitt`](https://github.com/NiklasSchmitt)
 - [`@GitCroque`](https://github.com/GitCroque)
-- [`@nevo-david`](https://github.com/nevo-david)
+- [`@MuhammadOwaisShah`](https://github.com/MuhammadOwaisShah)
 
 ---
 
