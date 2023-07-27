@@ -42,7 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (2 years ago)
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (4 years ago)
 - [Victor&#39;s macOS Client information parser](https://gist.github.com/5eeebc05c61c7a00450aee8b81be824c) (4 years ago)
-- [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (4 years ago)
+- [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (5 years ago)
 - [Install imapsync from source on Ubuntu 16.04](https://gist.github.com/3f94306bcfda871b1d3c61c400926e5c) (5 years ago)
 
 #### 👤 My recent followers
