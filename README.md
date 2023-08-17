@@ -10,7 +10,7 @@
 
 ---
 
-Hi there! 👋 I'm a 31 year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
+Hi there! 👋 I'm a 32 year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
 
 Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
@@ -22,7 +22,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust. (10 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (10 months ago)
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub (11 months ago)
-- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (11 months ago)
+- [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub. (1 year ago)
 
 #### 🌱 My latest projects
 
