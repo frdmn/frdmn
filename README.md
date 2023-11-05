@@ -43,7 +43,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
-- [`@AbdeenM`](https://github.com/AbdeenM)
 - [`@lethalcommunity`](https://github.com/lethalcommunity)
 - [`@samueledeh`](https://github.com/samueledeh)
 - [`@PatrykO92`](https://github.com/PatrykO92)
@@ -53,6 +52,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@zevi-r`](https://github.com/zevi-r)
 - [`@kimnam12`](https://github.com/kimnam12)
 - [`@tiben01`](https://github.com/tiben01)
+- [`@HPKTOL`](https://github.com/HPKTOL)
 
 ---
 
