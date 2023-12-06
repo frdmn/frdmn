@@ -43,7 +43,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
-- [`@nevo-david`](https://github.com/nevo-david)
 - [`@AryanJNayak`](https://github.com/AryanJNayak)
 - [`@lethalcommunity`](https://github.com/lethalcommunity)
 - [`@samueledeh`](https://github.com/samueledeh)
@@ -53,6 +52,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@akmalovicsh1`](https://github.com/akmalovicsh1)
 - [`@zevi-r`](https://github.com/zevi-r)
 - [`@kimnam12`](https://github.com/kimnam12)
+- [`@tiben01`](https://github.com/tiben01)
 
 ---
 
