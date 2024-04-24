@@ -18,7 +18,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/3d-printer-builds](https://github.com/frdmn/3d-printer-builds) - Repository contains build logs of my two 3d printers: Creality Ender-3 v1 &amp; Prusa i3 MK3s (Bear Mod) (10 months ago)
+- [frdmn/3d-printer-builds](https://github.com/frdmn/3d-printer-builds) - Repository contains build logs of my two 3d printers: Creality Ender-3 v1 &amp; Prusa i3 MK3s (Bear Mod) (11 months ago)
 
 #### 🌱 My latest projects
 
