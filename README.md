@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@Pr4c0w1ty`](https://github.com/Pr4c0w1ty)
 - [`@parsaa74`](https://github.com/parsaa74)
 - [`@eloiseNami`](https://github.com/eloiseNami)
 - [`@standardgalactic`](https://github.com/standardgalactic)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@lethalcommunity`](https://github.com/lethalcommunity)
 - [`@samueledeh`](https://github.com/samueledeh)
 - [`@PatrykO92`](https://github.com/PatrykO92)
-- [`@geekgonecrazy`](https://github.com/geekgonecrazy)
 
 ---
 
