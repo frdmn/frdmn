@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@Neustradamus`](https://github.com/Neustradamus)
 - [`@nadeesha`](https://github.com/nadeesha)
 - [`@bludnic`](https://github.com/bludnic)
 - [`@03066895025`](https://github.com/03066895025)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@standardgalactic`](https://github.com/standardgalactic)
 - [`@PatrickJnr`](https://github.com/PatrickJnr)
 - [`@keithsavage777`](https://github.com/keithsavage777)
-- [`@AryanJNayak`](https://github.com/AryanJNayak)
 
 ---
 
