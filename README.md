@@ -42,8 +42,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
-- [`@Suzan1994`](https://github.com/Suzan1994)
-- [`@AI4Networking`](https://github.com/AI4Networking)
 - [`@LinuxJS`](https://github.com/LinuxJS)
 - [`@Neustradamus`](https://github.com/Neustradamus)
 - [`@nadeesha`](https://github.com/nadeesha)
@@ -52,6 +50,8 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@Pr4c0w1ty`](https://github.com/Pr4c0w1ty)
 - [`@parsaa74`](https://github.com/parsaa74)
 - [`@eloiseNami`](https://github.com/eloiseNami)
+- [`@standardgalactic`](https://github.com/standardgalactic)
+- [`@PatrickJnr`](https://github.com/PatrickJnr)
 
 ---
 
