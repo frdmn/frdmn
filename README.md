@@ -42,7 +42,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
-- [`@oluiscabral`](https://github.com/oluiscabral)
 - [`@mortnir`](https://github.com/mortnir)
 - [`@LinuxJS`](https://github.com/LinuxJS)
 - [`@Neustradamus`](https://github.com/Neustradamus)
@@ -52,6 +51,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@Pr4c0w1ty`](https://github.com/Pr4c0w1ty)
 - [`@parsaa74`](https://github.com/parsaa74)
 - [`@eloiseNami`](https://github.com/eloiseNami)
+- [`@standardgalactic`](https://github.com/standardgalactic)
 
 ---
 
