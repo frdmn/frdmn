@@ -10,7 +10,7 @@
 
 ---
 
-Hi there! 👋 I'm a 33 year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
+Hi there! 👋 I'm a 34 year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
 
 Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
