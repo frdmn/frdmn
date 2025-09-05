@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@aliffzakwan60-rgb`](https://github.com/aliffzakwan60-rgb)
 - [`@aartikumardevi430-glitch`](https://github.com/aartikumardevi430-glitch)
 - [`@bajpaiuma707-design`](https://github.com/bajpaiuma707-design)
 - [`@mortnir`](https://github.com/mortnir)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@bludnic`](https://github.com/bludnic)
 - [`@03066895025`](https://github.com/03066895025)
 - [`@Pr4c0w1ty`](https://github.com/Pr4c0w1ty)
-- [`@parsaa74`](https://github.com/parsaa74)
 
 ---
 
