@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@trinhminhtriet`](https://github.com/trinhminhtriet)
 - [`@XiaomingX`](https://github.com/XiaomingX)
 - [`@aliffzakwan60-rgb`](https://github.com/aliffzakwan60-rgb)
 - [`@aartikumardevi430-glitch`](https://github.com/aartikumardevi430-glitch)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@Neustradamus`](https://github.com/Neustradamus)
 - [`@nadeesha`](https://github.com/nadeesha)
 - [`@bludnic`](https://github.com/bludnic)
-- [`@03066895025`](https://github.com/03066895025)
 
 ---
 
