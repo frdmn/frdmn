@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@rinakumari6299606992-dotcom`](https://github.com/rinakumari6299606992-dotcom)
 - [`@gloirematsinou5-del`](https://github.com/gloirematsinou5-del)
 - [`@goldenmomo363-lgtm`](https://github.com/goldenmomo363-lgtm)
 - [`@trinhminhtriet`](https://github.com/trinhminhtriet)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@mortnir`](https://github.com/mortnir)
 - [`@LinuxJS`](https://github.com/LinuxJS)
 - [`@Neustradamus`](https://github.com/Neustradamus)
-- [`@nadeesha`](https://github.com/nadeesha)
 
 ---
 
