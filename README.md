@@ -45,13 +45,13 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@rinakumari6299606992-dotcom`](https://github.com/rinakumari6299606992-dotcom)
 - [`@gloirematsinou5-del`](https://github.com/gloirematsinou5-del)
 - [`@goldenmomo363-lgtm`](https://github.com/goldenmomo363-lgtm)
-- [`@trinhminhtriet`](https://github.com/trinhminhtriet)
 - [`@aliffzakwan60-rgb`](https://github.com/aliffzakwan60-rgb)
 - [`@aartikumardevi430-glitch`](https://github.com/aartikumardevi430-glitch)
 - [`@bajpaiuma707-design`](https://github.com/bajpaiuma707-design)
 - [`@mortnir`](https://github.com/mortnir)
 - [`@LinuxJS`](https://github.com/LinuxJS)
 - [`@Neustradamus`](https://github.com/Neustradamus)
+- [`@nadeesha`](https://github.com/nadeesha)
 
 ---
 
