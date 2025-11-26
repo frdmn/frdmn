@@ -29,6 +29,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
+- [Docker compose setup for Homestead Minecraft Modpack (1.2.8)](https://gist.github.com/d0cce36abde6581be5d54875149af95e) (today)
 - [Gcode commands for manual bed leveling / tramming](https://gist.github.com/dfdae53cefc8e107f5110c80012f208e) (2 years ago)
 - [Disable power save mode for wireless interfaces on Raspbian 10/Buster](https://gist.github.com/9b3fcf8ee7e6b2223da44314e023c969) (2 years ago)
 - [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (4 years ago)
@@ -38,7 +39,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (6 years ago)
 - [Victor&#39;s macOS Client information parser](https://gist.github.com/5eeebc05c61c7a00450aee8b81be824c) (6 years ago)
 - [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (7 years ago)
-- [Install imapsync from source on Ubuntu 16.04](https://gist.github.com/3f94306bcfda871b1d3c61c400926e5c) (7 years ago)
 
 #### 👤 My recent followers
 
