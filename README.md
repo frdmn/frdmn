@@ -29,7 +29,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 🔭 My latest gists
 
-- [Docker compose setup for Homestead Minecraft Modpack (1.2.8)](https://gist.github.com/d0cce36abde6581be5d54875149af95e) (6 days ago)
+- [Docker compose setup for Homestead Minecraft Modpack (1.2.8)](https://gist.github.com/d0cce36abde6581be5d54875149af95e) (1 week ago)
 - [Gcode commands for manual bed leveling / tramming](https://gist.github.com/dfdae53cefc8e107f5110c80012f208e) (2 years ago)
 - [Disable power save mode for wireless interfaces on Raspbian 10/Buster](https://gist.github.com/9b3fcf8ee7e6b2223da44314e023c969) (2 years ago)
 - [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (4 years ago)
