@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@diamondjoe678-source`](https://github.com/diamondjoe678-source)
 - [`@mukaremmondal31-creator`](https://github.com/mukaremmondal31-creator)
 - [`@fredrickharry177-cloud`](https://github.com/fredrickharry177-cloud)
 - [`@rinakumari6299606992-dotcom`](https://github.com/rinakumari6299606992-dotcom)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@aartikumardevi430-glitch`](https://github.com/aartikumardevi430-glitch)
 - [`@bajpaiuma707-design`](https://github.com/bajpaiuma707-design)
 - [`@mortnir`](https://github.com/mortnir)
-- [`@LinuxJS`](https://github.com/LinuxJS)
 
 ---
 
