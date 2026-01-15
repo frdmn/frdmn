@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@kaprimanish43-alt`](https://github.com/kaprimanish43-alt)
 - [`@mikechiloane`](https://github.com/mikechiloane)
 - [`@diamondjoe678-source`](https://github.com/diamondjoe678-source)
 - [`@mukaremmondal31-creator`](https://github.com/mukaremmondal31-creator)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@goldenmomo363-lgtm`](https://github.com/goldenmomo363-lgtm)
 - [`@aliffzakwan60-rgb`](https://github.com/aliffzakwan60-rgb)
 - [`@aartikumardevi430-glitch`](https://github.com/aartikumardevi430-glitch)
-- [`@bajpaiuma707-design`](https://github.com/bajpaiuma707-design)
 
 ---
 
