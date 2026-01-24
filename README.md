@@ -42,6 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@emilycodestar`](https://github.com/emilycodestar)
 - [`@ik2519233-byte`](https://github.com/ik2519233-byte)
 - [`@kaprimanish43-alt`](https://github.com/kaprimanish43-alt)
 - [`@diamondjoe678-source`](https://github.com/diamondjoe678-source)
@@ -51,7 +52,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@gloirematsinou5-del`](https://github.com/gloirematsinou5-del)
 - [`@goldenmomo363-lgtm`](https://github.com/goldenmomo363-lgtm)
 - [`@aliffzakwan60-rgb`](https://github.com/aliffzakwan60-rgb)
-- [`@aartikumardevi430-glitch`](https://github.com/aartikumardevi430-glitch)
 
 ---
 
