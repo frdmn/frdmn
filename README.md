@@ -18,9 +18,9 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [gta5-map/dupepanel](https://github.com/gta5-map/dupepanel) - Web-based sell tracker for GTA V (1 day ago)
-- [gta5-map/gta5-map.github.io](https://github.com/gta5-map/gta5-map.github.io) - Interactive GTA V map for wall breaches and glitches (2 days ago)
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (5 days ago)
+- [gta5-map/dupepanel](https://github.com/gta5-map/dupepanel) - Web-based sell tracker for GTA V (2 days ago)
+- [gta5-map/gta5-map.github.io](https://github.com/gta5-map/gta5-map.github.io) - Interactive GTA V map for wall breaches and glitches (3 days ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (6 days ago)
 
 #### 🌱 My latest projects
 
