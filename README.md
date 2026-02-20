@@ -20,7 +20,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 - [gta5-map/dupepanel](https://github.com/gta5-map/dupepanel) - Web-based sell tracker for GTA V (2 weeks ago)
 - [gta5-map/gta5-map.github.io](https://github.com/gta5-map/gta5-map.github.io) - Interactive GTA V map for wall breaches and glitches (2 weeks ago)
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (2 weeks ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 - [Docker compose setup for Homestead Minecraft Modpack (1.2.8)](https://gist.github.com/d0cce36abde6581be5d54875149af95e) (2 months ago)
 - [Gcode commands for manual bed leveling / tramming](https://gist.github.com/dfdae53cefc8e107f5110c80012f208e) (2 years ago)
-- [Disable power save mode for wireless interfaces on Raspbian 10/Buster](https://gist.github.com/9b3fcf8ee7e6b2223da44314e023c969) (2 years ago)
+- [Disable power save mode for wireless interfaces on Raspbian 10/Buster](https://gist.github.com/9b3fcf8ee7e6b2223da44314e023c969) (3 years ago)
 - [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (4 years ago)
 - [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (4 years ago)
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (5 years ago)
