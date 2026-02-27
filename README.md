@@ -45,6 +45,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@sainyogesh411-oss`](https://github.com/sainyogesh411-oss)
 - [`@duckk-01`](https://github.com/duckk-01)
 - [`@emilycodestar`](https://github.com/emilycodestar)
 - [`@ik2519233-byte`](https://github.com/ik2519233-byte)
@@ -54,7 +55,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@fredrickharry177-cloud`](https://github.com/fredrickharry177-cloud)
 - [`@rinakumari6299606992-dotcom`](https://github.com/rinakumari6299606992-dotcom)
 - [`@gloirematsinou5-del`](https://github.com/gloirematsinou5-del)
-- [`@goldenmomo363-lgtm`](https://github.com/goldenmomo363-lgtm)
 
 ---
 
