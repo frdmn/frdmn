@@ -45,6 +45,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@ahmednazir5080-afk`](https://github.com/ahmednazir5080-afk)
 - [`@dewhush`](https://github.com/dewhush)
 - [`@rh153684-debug`](https://github.com/rh153684-debug)
 - [`@KleberVales`](https://github.com/KleberVales)
@@ -54,7 +55,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@ik2519233-byte`](https://github.com/ik2519233-byte)
 - [`@kaprimanish43-alt`](https://github.com/kaprimanish43-alt)
 - [`@diamondjoe678-source`](https://github.com/diamondjoe678-source)
-- [`@mukaremmondal31-creator`](https://github.com/mukaremmondal31-creator)
 
 ---
 
