@@ -18,7 +18,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/AndTekBar.app](https://github.com/frdmn/AndTekBar.app) - :telephone_receiver: macOS (Swift) menu bar App, to login and logout in AndTek call centers.  (4 days ago)
+- [frdmn/AndTekBar.app](https://github.com/frdmn/AndTekBar.app) - :telephone_receiver: macOS (Swift) menu bar App, to login and logout in AndTek call centers.  (5 days ago)
 - [gta5-map/dupepanel](https://github.com/gta5-map/dupepanel) - Web-based sell tracker for GTA V (3 months ago)
 - [gta5-map/gta5-map.github.io](https://github.com/gta5-map/gta5-map.github.io) - Interactive GTA V map for wall breaches and glitches (3 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (3 months ago)
