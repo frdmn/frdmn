@@ -50,12 +50,12 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@lake558800-bot`](https://github.com/lake558800-bot)
 - [`@Nivedh555`](https://github.com/Nivedh555)
 - [`@ahmednazir5080-afk`](https://github.com/ahmednazir5080-afk)
-- [`@dewhush`](https://github.com/dewhush)
 - [`@rh153684-debug`](https://github.com/rh153684-debug)
 - [`@sainyogesh411-oss`](https://github.com/sainyogesh411-oss)
 - [`@duckk-01`](https://github.com/duckk-01)
 - [`@emilycodestar`](https://github.com/emilycodestar)
 - [`@ik2519233-byte`](https://github.com/ik2519233-byte)
+- [`@kaprimanish43-alt`](https://github.com/kaprimanish43-alt)
 
 ---
 
