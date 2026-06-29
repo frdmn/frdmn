@@ -46,6 +46,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@husnainnawaz510-spec`](https://github.com/husnainnawaz510-spec)
 - [`@Dvurechensky`](https://github.com/Dvurechensky)
 - [`@kashyapaman45672-dev`](https://github.com/kashyapaman45672-dev)
 - [`@lake558800-bot`](https://github.com/lake558800-bot)
@@ -55,7 +56,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@sainyogesh411-oss`](https://github.com/sainyogesh411-oss)
 - [`@duckk-01`](https://github.com/duckk-01)
 - [`@emilycodestar`](https://github.com/emilycodestar)
-- [`@ik2519233-byte`](https://github.com/ik2519233-byte)
 
 ---
 
