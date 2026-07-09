@@ -55,7 +55,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@rh153684-debug`](https://github.com/rh153684-debug)
 - [`@sainyogesh411-oss`](https://github.com/sainyogesh411-oss)
 - [`@duckk-01`](https://github.com/duckk-01)
-- [`@emilycodestar`](https://github.com/emilycodestar)
+- [`@ik2519233-byte`](https://github.com/ik2519233-byte)
 
 ---
 
