@@ -46,6 +46,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@satyamkashyap39-crypto`](https://github.com/satyamkashyap39-crypto)
 - [`@husnainnawaz510-spec`](https://github.com/husnainnawaz510-spec)
 - [`@Dvurechensky`](https://github.com/Dvurechensky)
 - [`@kashyapaman45672-dev`](https://github.com/kashyapaman45672-dev)
@@ -55,7 +56,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@rh153684-debug`](https://github.com/rh153684-debug)
 - [`@sainyogesh411-oss`](https://github.com/sainyogesh411-oss)
 - [`@duckk-01`](https://github.com/duckk-01)
-- [`@ik2519233-byte`](https://github.com/ik2519233-byte)
 
 ---
 
