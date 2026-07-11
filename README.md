@@ -18,7 +18,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/AndTekBar.app](https://github.com/frdmn/AndTekBar.app) - :telephone_receiver: macOS (Swift) menu bar App, to login and logout in AndTek call centers.  (1 month ago)
+- [frdmn/AndTekBar.app](https://github.com/frdmn/AndTekBar.app) - :telephone_receiver: macOS (Swift) menu bar App, to login and logout in AndTek call centers.  (2 months ago)
 - [gta5-map/dupepanel](https://github.com/gta5-map/dupepanel) - Web-based sell tracker for GTA V (5 months ago)
 - [gta5-map/gta5-map.github.io](https://github.com/gta5-map/gta5-map.github.io) - Interactive GTA V map for wall breaches and glitches (5 months ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (5 months ago)
@@ -42,7 +42,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (5 years ago)
 - [https://frd.mn/check-if-rocketchat-cloud/](https://gist.github.com/cdf4cc001446919dd0bb082ef8389dd2) (7 years ago)
 - [Victor&#39;s macOS Client information parser](https://gist.github.com/5eeebc05c61c7a00450aee8b81be824c) (7 years ago)
-- [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (7 years ago)
+- [Clear Rocket.Chat uploads periodically (before #11236 [message pruning] existed)](https://gist.github.com/acfffa4d099df023a8ea90df0b6dc650) (8 years ago)
 
 #### 👤 My recent followers
 
