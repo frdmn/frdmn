@@ -47,7 +47,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 #### 👤 My recent followers
 
 - [`@Devify-Co`](https://github.com/Devify-Co)
-- [`@journaltraces`](https://github.com/journaltraces)
 - [`@sonerirudra5-hub`](https://github.com/sonerirudra5-hub)
 - [`@satyamkashyap39-crypto`](https://github.com/satyamkashyap39-crypto)
 - [`@husnainnawaz510-spec`](https://github.com/husnainnawaz510-spec)
@@ -56,6 +55,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@lake558800-bot`](https://github.com/lake558800-bot)
 - [`@Nivedh555`](https://github.com/Nivedh555)
 - [`@ahmednazir5080-afk`](https://github.com/ahmednazir5080-afk)
+- [`@rh153684-debug`](https://github.com/rh153684-debug)
 
 ---
 
