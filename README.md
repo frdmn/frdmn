@@ -46,6 +46,7 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 
 #### 👤 My recent followers
 
+- [`@vikaskute948-ux`](https://github.com/vikaskute948-ux)
 - [`@abdullahbaryar0177-commits`](https://github.com/abdullahbaryar0177-commits)
 - [`@Devify-Co`](https://github.com/Devify-Co)
 - [`@sonerirudra5-hub`](https://github.com/sonerirudra5-hub)
@@ -55,7 +56,6 @@ Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
 - [`@kashyapaman45672-dev`](https://github.com/kashyapaman45672-dev)
 - [`@lake558800-bot`](https://github.com/lake558800-bot)
 - [`@Nivedh555`](https://github.com/Nivedh555)
-- [`@ahmednazir5080-afk`](https://github.com/ahmednazir5080-afk)
 
 ---
 
