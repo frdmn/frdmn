@@ -12,8 +12,6 @@
 
 Hi there! 👋 I'm a $age year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
 
-Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
-
 ---
 
 #### 👷 Check out what I'm currently working on
