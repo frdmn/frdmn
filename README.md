@@ -12,16 +12,14 @@
 
 Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux enthusiast, Open Source contributor/maintainer and allergic to basically all animals with hair/fur. 😫
 
-Also working for [@RocketChat](https://github.com/RocketChat) in part-time. 🚀
-
 ---
 
 #### 👷 Check out what I'm currently working on
 
 - [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (today)
 - [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (today)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (today)
 - [dahlb/blueair_api](https://github.com/dahlb/blueair_api) -  (today)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (today)
 - [frdmn/AndTekBar.app](https://github.com/frdmn/AndTekBar.app) - :telephone_receiver: macOS (Swift) menu bar App, to login and logout in AndTek call centers.  (4 months ago)
 
 #### 🌱 My latest projects
