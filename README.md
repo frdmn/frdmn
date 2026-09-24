@@ -17,10 +17,10 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 #### 👷 Check out what I'm currently working on
 
 - [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (today)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (today)
 - [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (today)
 - [dahlb/blueair_api](https://github.com/dahlb/blueair_api) -  (1 day ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 day ago)
-- [frdmn/AndTekBar.app](https://github.com/frdmn/AndTekBar.app) - :telephone_receiver: macOS (Swift) menu bar App, to login and logout in AndTek call centers.  (4 months ago)
 
 #### 🌱 My latest projects
 
