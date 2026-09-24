@@ -19,7 +19,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (today)
 - [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (today)
 - [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (today)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 day ago)
+- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (today)
 - [dahlb/blueair_api](https://github.com/dahlb/blueair_api) -  (1 day ago)
 
 #### 🌱 My latest projects
