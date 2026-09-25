@@ -16,11 +16,11 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 
 #### 👷 Check out what I'm currently working on
 
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (today)
-- [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (today)
-- [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (today)
-- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (today)
-- [dahlb/blueair_api](https://github.com/dahlb/blueair_api) -  (1 day ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (1 day ago)
+- [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (1 day ago)
+- [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (1 day ago)
+- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (1 day ago)
+- [dahlb/blueair_api](https://github.com/dahlb/blueair_api) -  (2 days ago)
 
 #### 🌱 My latest projects
 
