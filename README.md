@@ -1,11 +1,10 @@
 ### Jonas Friedmann
 
-[![Twitter](https://img.shields.io/badge/-frdmn-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/frdmn)](https://twitter.com/frdmn)
-[![LinkedIn](https://img.shields.io/badge/-Jonas_Friedmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frdmn/)](https://www.linkedin.com/in/frdmn/)
-[![Mail](https://img.shields.io/badge/-j@frd.mn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j@frd.mn)](mailto:j@frd.mn)
-[![PGP](https://img.shields.io/keybase/pgp/frdmn?style=flat-square)](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x592054efee01155264764ec9b6e314fbd713fc95)
-[![Keybase](https://img.shields.io/badge/-frdmn-ff6f21?style=flat-square&logo=Keybase&logoColor=white&link=https://keybase.io/frdmn/)](https://keybase.io/frdmn/)
-[![Telegram](https://img.shields.io/badge/-@frdmn-0088cc?style=flat-square&logo=Telegram&link=http://t.me/frdmn)](http://t.me/frdmn)
+[![X](https://img.shields.io/badge/-frdmn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/frdmn)
+[![LinkedIn](https://img.shields.io/badge/-Jonas_Friedmann-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/frdmn/)
+[![Mail](https://img.shields.io/badge/-j@frd.mn-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:j@frd.mn)
+[![PGP](https://img.shields.io/badge/PGP-B6E314FBD713FC95-555555?style=flat-square&logo=gnuprivacyguard&logoColor=white)](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x592054efee01155264764ec9b6e314fbd713fc95)
+[![Telegram](https://img.shields.io/badge/-@frdmn-0088cc?style=flat-square&logo=Telegram&logoColor=white)](http://t.me/frdmn)
 [![Website](https://img.shields.io/static/v1?label=https://&message=frd.mn&color=yellow&logo=&style=flat-square&logoColor=white)](https://frd.mn/)
 
 ---
@@ -20,7 +19,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (5 days ago)
 - [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (5 days ago)
 - [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (5 days ago)
-- [dahlb/blueair_api](https://github.com/dahlb/blueair_api) -  (6 days ago)
+- [dahlb/blueair_api](https://github.com/dahlb/blueair_api) (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -59,5 +58,5 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frdmn&show_icons=true">
+  <img src="https://github-stats-extended.vercel.app/api?username=frdmn&show_icons=true" alt="GitHub stats for frdmn">
 </p>
