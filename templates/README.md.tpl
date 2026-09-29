@@ -15,17 +15,17 @@ Hi there! 👋 I'm a $age year old network/system administrator, macOS user, Lin
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{if .Repo.Description}} - {{.Repo.Description}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}){{if .Description}} - {{.Description}}{{end}}
 {{- end}}
 
 #### 🔭 My latest gists
 {{range gists 10}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+- [{{if .Description}}{{.Description}}{{else}}Untitled gist{{end}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 👤 My recent followers
@@ -36,5 +36,5 @@ Hi there! 👋 I'm a $age year old network/system administrator, macOS user, Lin
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=frdmn&show_icons=true">
+  <img src="https://github-stats-extended.vercel.app/api?username=frdmn&show_icons=true" alt="GitHub stats for frdmn">
 </p>

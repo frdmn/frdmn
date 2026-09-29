@@ -19,7 +19,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (5 days ago)
 - [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (5 days ago)
 - [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (5 days ago)
-- [dahlb/blueair_api](https://github.com/dahlb/blueair_api) -  (6 days ago)
+- [dahlb/blueair_api](https://github.com/dahlb/blueair_api) (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -58,5 +58,5 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=frdmn&show_icons=true">
+  <img src="https://github-stats-extended.vercel.app/api?username=frdmn&show_icons=true" alt="GitHub stats for frdmn">
 </p>
