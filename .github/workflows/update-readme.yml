@@ -21,7 +21,7 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: frdmn/age-calculator-action@v1.1
+      - uses: frdmn/age-calculator-action@v2.0.1
         id: birthday
         with:
           date: '1991-08-17'
