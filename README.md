@@ -16,10 +16,10 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 #### 👷 Check out what I'm currently working on
 
 - [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string (today)
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (4 days ago)
-- [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (5 days ago)
-- [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (5 days ago)
-- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (5 days ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (5 days ago)
+- [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (6 days ago)
+- [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (6 days ago)
+- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (6 days ago)
 
 #### 🌱 My latest projects
 
