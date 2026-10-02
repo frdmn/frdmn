@@ -15,11 +15,11 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 
 #### 👷 Check out what I'm currently working on
 
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (today)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (1 day ago)
 - [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string (2 days ago)
 - [frdmn/tlstools](https://github.com/frdmn/tlstools) - :closed_lock_with_key: CLI tool to analyze, troubleshoot or inspect SSL certificates, requests or keys. (1 week ago)
 - [frdmn/openssl-cert-tools](https://github.com/frdmn/openssl-cert-tools) - 🗂NodeJS module to handle certificate related OpenSSL commands (1 week ago)
-- [frdmn/homebrew-formulas](https://github.com/frdmn/homebrew-formulas) - :beers: My custom homebrew packages/formulas/beverages (1 week ago)
 
 #### 🌱 My latest projects
 
