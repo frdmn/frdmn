@@ -19,7 +19,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (1 week ago)
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent (2 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 weeks ago)
-- [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string (2 weeks ago)
+- [frdmn/age-calculator-action](https://github.com/frdmn/age-calculator-action) - :octocat: GitHub Action to calculate the age in years of a given date string (3 weeks ago)
 
 #### 🌱 My latest projects
 
