@@ -15,7 +15,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 
 #### 👷 Check out what I'm currently working on
 
-- [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks. (4 days ago)
+- [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks. (5 days ago)
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana &#43; InfluxDB &#43; Speedtest.net results (1 week ago)
 - [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (2 weeks ago)
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent (2 weeks ago)
@@ -34,7 +34,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [Docker compose setup for Homestead Minecraft Modpack (1.2.8)](https://gist.github.com/d0cce36abde6581be5d54875149af95e) (11 months ago)
 - [Gcode commands for manual bed leveling / tramming](https://gist.github.com/dfdae53cefc8e107f5110c80012f208e) (3 years ago)
 - [Disable power save mode for wireless interfaces on Raspbian 10/Buster](https://gist.github.com/9b3fcf8ee7e6b2223da44314e023c969) (3 years ago)
-- [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (4 years ago)
+- [Improved version of @home-IoT/hass-blueprints:reminder_to_close_window.yaml](https://gist.github.com/39d17ce1f63de73dad2457e3a17e38ca) (5 years ago)
 - [MySQL / MariaDB Dump Helper](https://gist.github.com/d1b79c7b8bcdbb26e487a52930687253) (5 years ago)
 - [Raspberry Pi 4B with Prusa MK3s / Einsy RAMBo headers](https://gist.github.com/1bcefbb4f1d2e17c21450abd8869dae3) (6 years ago)
 - [frdmn@github - keys.pub](https://gist.github.com/d96b74034451f966c06df5fd14d7d62f) (6 years ago)
