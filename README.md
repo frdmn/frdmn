@@ -47,7 +47,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [`@shivamthakurare876-cloud`](https://github.com/shivamthakurare876-cloud)
 - [`@sonismitasoni567-alt`](https://github.com/sonismitasoni567-alt)
 - [`@sujitsonisoni7-sketch`](https://github.com/sujitsonisoni7-sketch)
-- [`@UmutB34`](https://github.com/UmutB34)
+- [`@UmutBecan`](https://github.com/UmutBecan)
 - [`@vikaskute948-ux`](https://github.com/vikaskute948-ux)
 - [`@abdullahbaryar0177-commits`](https://github.com/abdullahbaryar0177-commits)
 - [`@Devify-Co`](https://github.com/Devify-Co)
