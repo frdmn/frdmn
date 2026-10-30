@@ -17,9 +17,9 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 
 - [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks. (1 week ago)
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana &#43; InfluxDB &#43; Speedtest.net results (2 weeks ago)
-- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (2 weeks ago)
+- [frdmn/dotfiles](https://github.com/frdmn/dotfiles) - :pager: Ansible-based dotfile setup for macOS (3 weeks ago)
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent (3 weeks ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (4 weeks ago)
 
 #### 🌱 My latest projects
 
