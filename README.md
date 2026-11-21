@@ -44,6 +44,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 
 #### 👤 My recent followers
 
+- [`@navimehra4246-cpu`](https://github.com/navimehra4246-cpu)
 - [`@ahmadredar127-cell`](https://github.com/ahmadredar127-cell)
 - [`@andhalemaya50-a11y`](https://github.com/andhalemaya50-a11y)
 - [`@advkavitachendakegotam-bot`](https://github.com/advkavitachendakegotam-bot)
@@ -53,7 +54,6 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [`@samejohussain18-ux`](https://github.com/samejohussain18-ux)
 - [`@parvej779988-cell`](https://github.com/parvej779988-cell)
 - [`@sadafnoorwork-rgb`](https://github.com/sadafnoorwork-rgb)
-- [`@shivamthakurare876-cloud`](https://github.com/shivamthakurare876-cloud)
 
 ---
 
