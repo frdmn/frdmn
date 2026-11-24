@@ -44,6 +44,7 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 
 #### 👤 My recent followers
 
+- [`@jatavnakash888-pixel`](https://github.com/jatavnakash888-pixel)
 - [`@ayeshagillani460-bot`](https://github.com/ayeshagillani460-bot)
 - [`@PedroMartinezag`](https://github.com/PedroMartinezag)
 - [`@k4090793-lang`](https://github.com/k4090793-lang)
@@ -53,7 +54,6 @@ Hi there! 👋 I'm a 35 year old network/system administrator, macOS user, Linux
 - [`@advkavitachendakegotam-bot`](https://github.com/advkavitachendakegotam-bot)
 - [`@alimuddinc8-hash`](https://github.com/alimuddinc8-hash)
 - [`@rushijajimogga414-max`](https://github.com/rushijajimogga414-max)
-- [`@shafiq4726626-droid`](https://github.com/shafiq4726626-droid)
 
 ---
 
